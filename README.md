@@ -14,9 +14,9 @@ A simple and lightweight interpreter written in Go that parses and evaluates ari
 - ✅ CLI-based interface
 
 ---
+![image](https://github.com/user-attachments/assets/53ae83ba-c6a9-4593-ab83-c6a2f2ae5077)
 
 ---
-
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
